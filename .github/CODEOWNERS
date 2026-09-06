@@ -1,0 +1,19 @@
+# Default: the lead reviews anything not otherwise owned.
+*                       @bilal-rauf-dev
+
+# Calculations. Two approvals required; this is where wrong numbers come from.
+/src/lib/               @bilal-rauf-dev @muhammad-hassaan-aiml
+/src/hooks/             @muhammad-hassaan-aiml
+
+# Information architecture, routing and screen structure.
+/src/modules/           @Mzt00
+/src/components/        @Mzt00
+
+# Accessibility and localisation.
+/src/locales/           @saadicyber
+/src/styles/            @saadicyber
+/docs/ACCESSIBILITY.md  @saadicyber
+
+# Principles and charter.
+/docs/DESIGN_PRINCIPLES.md  @bilal-rauf-dev
+/docs/PROJECT_CHARTER.md    @bilal-rauf-dev
