@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ch-2026F",
+    "semesterId": "2026F",
+    "amount": 194500,
+    "generatedOn": "2026-10-15",
+    "dueDate": "2026-11-04",
+    "status": "unpaid",
+    "paidOn": null
+  },
+  {
+    "id": "ch-2026F-hostel",
+    "semesterId": "2026F",
+    "amount": 42000,
+    "generatedOn": "2026-09-01",
+    "dueDate": "2026-09-20",
+    "status": "overdue",
+    "paidOn": null
+  },
+  {
+    "id": "ch-2026S",
+    "semesterId": "2026S",
+    "amount": 222500,
+    "generatedOn": "2026-01-08",
+    "dueDate": "2026-02-06",
+    "status": "paid",
+    "paidOn": "2026-01-22"
+  },
+  {
+    "id": "ch-2025F",
+    "semesterId": "2025F",
+    "amount": 200500,
+    "generatedOn": "2025-08-10",
+    "dueDate": "2025-08-31",
+    "status": "paid",
+    "paidOn": "2025-08-28"
+  },
+  {
+    "id": "ch-2025S",
+    "semesterId": "2025S",
+    "amount": 162500,
+    "generatedOn": "2025-01-05",
+    "dueDate": "2025-06-15",
+    "status": "paid",
+    "paidOn": "2025-01-18"
+  },
+  {
+    "id": "ch-2024F",
+    "semesterId": "2024F",
+    "amount": 212500,
+    "generatedOn": "2024-07-01",
+    "dueDate": "2024-09-16",
+    "status": "paid",
+    "paidOn": "2024-07-24"
+  }
+]

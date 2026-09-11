@@ -1,0 +1,226 @@
+[
+  {
+    "courseId": "CS2009",
+    "name": "Quiz 1",
+    "weight": 5,
+    "obtainedScore": 9,
+    "maxScore": 10,
+    "publishedAt": "2026-09-08"
+  },
+  {
+    "courseId": "CS2009",
+    "name": "Quiz 2",
+    "weight": 5,
+    "obtainedScore": 7,
+    "maxScore": 10,
+    "publishedAt": "2026-09-29"
+  },
+  {
+    "courseId": "CS2009",
+    "name": "Assignment 1",
+    "weight": 10,
+    "obtainedScore": 18,
+    "maxScore": 20,
+    "publishedAt": "2026-09-22"
+  },
+  {
+    "courseId": "CS2009",
+    "name": "Sessional I",
+    "weight": 15,
+    "obtainedScore": 22,
+    "maxScore": 30,
+    "publishedAt": "2026-10-13"
+  },
+  {
+    "courseId": "CS2009",
+    "name": "Sessional II",
+    "weight": 15,
+    "obtainedScore": null,
+    "maxScore": 30,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS2009",
+    "name": "Final",
+    "weight": 50,
+    "obtainedScore": null,
+    "maxScore": 100,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS3001",
+    "name": "Quiz 1",
+    "weight": 5,
+    "obtainedScore": 8,
+    "maxScore": 10,
+    "publishedAt": "2026-09-10"
+  },
+  {
+    "courseId": "CS3001",
+    "name": "Sessional I",
+    "weight": 15,
+    "obtainedScore": 25,
+    "maxScore": 30,
+    "publishedAt": "2026-10-13"
+  },
+  {
+    "courseId": "CS3001",
+    "name": "Sessional II",
+    "weight": 15,
+    "obtainedScore": null,
+    "maxScore": 30,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS3001",
+    "name": "Final",
+    "weight": 50,
+    "obtainedScore": null,
+    "maxScore": 100,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS3001",
+    "name": "Assignment 1",
+    "weight": 15,
+    "obtainedScore": null,
+    "maxScore": 20,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CL3001",
+    "name": "Lab 1",
+    "weight": 10,
+    "obtainedScore": 10,
+    "maxScore": 10,
+    "publishedAt": "2026-09-03"
+  },
+  {
+    "courseId": "CL3001",
+    "name": "Lab 2",
+    "weight": 10,
+    "obtainedScore": 9,
+    "maxScore": 10,
+    "publishedAt": "2026-09-17"
+  },
+  {
+    "courseId": "CL3001",
+    "name": "Lab Midterm",
+    "weight": 30,
+    "obtainedScore": 24,
+    "maxScore": 30,
+    "publishedAt": "2026-10-15"
+  },
+  {
+    "courseId": "CL3001",
+    "name": "Lab Final",
+    "weight": 50,
+    "obtainedScore": null,
+    "maxScore": 100,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS3014",
+    "name": "Project Phase 1",
+    "weight": 5,
+    "obtainedScore": 4,
+    "maxScore": 5,
+    "publishedAt": "2026-09-15"
+  },
+  {
+    "courseId": "CS3014",
+    "name": "Sessional I",
+    "weight": 15,
+    "obtainedScore": 20,
+    "maxScore": 30,
+    "publishedAt": "2026-10-14"
+  },
+  {
+    "courseId": "CS3014",
+    "name": "Project Phase 2",
+    "weight": 5,
+    "obtainedScore": null,
+    "maxScore": 5,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS3014",
+    "name": "Sessional II",
+    "weight": 15,
+    "obtainedScore": null,
+    "maxScore": 30,
+    "publishedAt": null
+  },
+  {
+    "courseId": "CS3014",
+    "name": "Final",
+    "weight": 60,
+    "obtainedScore": null,
+    "maxScore": 100,
+    "publishedAt": null
+  },
+  {
+    "courseId": "EE3009",
+    "name": "Quiz 1",
+    "weight": 10,
+    "obtainedScore": 3,
+    "maxScore": 10,
+    "publishedAt": "2026-09-09"
+  },
+  {
+    "courseId": "EE3009",
+    "name": "Sessional I",
+    "weight": 25,
+    "obtainedScore": 9,
+    "maxScore": 30,
+    "publishedAt": "2026-10-12"
+  },
+  {
+    "courseId": "EE3009",
+    "name": "Assignment 1",
+    "weight": 15,
+    "obtainedScore": 6,
+    "maxScore": 20,
+    "publishedAt": "2026-09-25"
+  },
+  {
+    "courseId": "EE3009",
+    "name": "Sessional II",
+    "weight": 20,
+    "obtainedScore": 7,
+    "maxScore": 30,
+    "publishedAt": "2026-10-23"
+  },
+  {
+    "courseId": "EE3009",
+    "name": "Final",
+    "weight": 30,
+    "obtainedScore": null,
+    "maxScore": 100,
+    "publishedAt": null
+  },
+  {
+    "courseId": "MT1004",
+    "name": "Sessional I",
+    "weight": 20,
+    "obtainedScore": null,
+    "maxScore": 30,
+    "publishedAt": null
+  },
+  {
+    "courseId": "MT1004",
+    "name": "Sessional II",
+    "weight": 20,
+    "obtainedScore": null,
+    "maxScore": 30,
+    "publishedAt": null
+  },
+  {
+    "courseId": "MT1004",
+    "name": "Final",
+    "weight": 60,
+    "obtainedScore": null,
+    "maxScore": 100,
+    "publishedAt": null
+  }
+]

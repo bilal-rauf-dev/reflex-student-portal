@@ -1,0 +1,6 @@
+{
+  "seededNow": "2026-10-26",
+  "note": "Fixed clock for the prototype. Pass this as `now` to every lib function that needs a date; never call Date.now() inside a calculation.",
+  "lastSyncedAt": "2026-10-25",
+  "attendanceThreshold": 80
+}

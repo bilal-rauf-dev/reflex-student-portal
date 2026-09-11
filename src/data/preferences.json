@@ -1,0 +1,15 @@
+{
+  "locale": "en",
+  "theme": "system",
+  "textScale": 1.0,
+  "attendanceThreshold": 80,
+  "feeNoticeDays": 7,
+  "notifications": {
+    "attendance-threshold": true,
+    "marks-published": true,
+    "fee-due": true,
+    "registration-open": true,
+    "request-decision": true
+  },
+  "delivery": "immediate"
+}

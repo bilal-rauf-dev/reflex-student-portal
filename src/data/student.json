@@ -1,0 +1,17 @@
+{
+  "id": "stu-001",
+  "rollNumber": "00F-0001",
+  "name": "Ayesha Kamran",
+  "section": "BCS-5B",
+  "batch": "Fall 2024",
+  "campus": "Chiniot-Faisalabad",
+  "programme": "BS(CS)",
+  "creditsRequired": 130,
+  "contact": {
+    "email": "ayesha.kamran@example.com",
+    "mobile": "0300-0000000",
+    "cnic": "00000-0000000-0",
+    "dateOfBirth": "2005-01-01"
+  },
+  "privacyNote": "Every value here is invented. cnic, dateOfBirth and mobile are masked by default in the UI (FR-06) and revealed only on explicit action."
+}

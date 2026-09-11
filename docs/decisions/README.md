@@ -20,3 +20,4 @@ argued in a group chat in Week 6 is gone by Week 15. A decision recorded here is
 | :---: | :--- | :--- |
 | [0001](0001-responsive-web-not-native.md) | Responsive web application, not a native app | Accepted |
 | [0002](0002-seeded-data-no-backend.md) | Seeded data, no backend, no university API | Accepted |
+| [0003](0003-ia-restructure-after-research.md) | Five-section IA after Phase 2 research; screen numbers frozen as IDs | Accepted |

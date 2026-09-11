@@ -1,0 +1,70 @@
+[
+  {
+    "id": "rq-01",
+    "type": "course-feedback",
+    "courseIds": [],
+    "state": "not-open",
+    "openFrom": "2026-11-16",
+    "openUntil": "2026-11-27",
+    "submittedAt": null,
+    "decidedAt": null,
+    "attachment": null
+  },
+  {
+    "id": "rq-02",
+    "type": "retake",
+    "courseIds": [
+      "EE3009"
+    ],
+    "state": "open",
+    "openFrom": "2026-10-20",
+    "openUntil": "2026-11-10",
+    "submittedAt": null,
+    "decidedAt": null,
+    "attachment": null
+  },
+  {
+    "id": "rq-03",
+    "type": "grade-change",
+    "courseIds": [
+      "MT1004"
+    ],
+    "state": "submitted",
+    "openFrom": "2026-10-01",
+    "openUntil": "2026-10-31",
+    "submittedAt": "2026-10-18",
+    "decidedAt": null,
+    "attachment": {
+      "name": "mt1004-appeal.pdf",
+      "sizeBytes": 842000,
+      "mimeType": "application/pdf"
+    }
+  },
+  {
+    "id": "rq-04",
+    "type": "withdrawal",
+    "courseIds": [
+      "EE3009"
+    ],
+    "state": "under-review",
+    "openFrom": "2026-08-22",
+    "openUntil": "2026-12-11",
+    "submittedAt": "2026-10-09",
+    "decidedAt": null,
+    "attachment": null
+  },
+  {
+    "id": "rq-05",
+    "type": "retake",
+    "courseIds": [
+      "MT1004"
+    ],
+    "state": "decided",
+    "openFrom": "2026-02-01",
+    "openUntil": "2026-02-20",
+    "submittedAt": "2026-02-10",
+    "decidedAt": "2026-02-24",
+    "outcome": "approved",
+    "attachment": null
+  }
+]
