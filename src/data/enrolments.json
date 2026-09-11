@@ -1,0 +1,44 @@
+[
+  {
+    "studentId": "stu-001",
+    "courseId": "CS2009",
+    "semesterId": "2026F",
+    "status": "registered",
+    "totalScheduledLectures": 34
+  },
+  {
+    "studentId": "stu-001",
+    "courseId": "CS3001",
+    "semesterId": "2026F",
+    "status": "registered",
+    "totalScheduledLectures": 34
+  },
+  {
+    "studentId": "stu-001",
+    "courseId": "CL3001",
+    "semesterId": "2026F",
+    "status": "registered",
+    "totalScheduledLectures": 17
+  },
+  {
+    "studentId": "stu-001",
+    "courseId": "CS3014",
+    "semesterId": "2026F",
+    "status": "registered",
+    "totalScheduledLectures": 34
+  },
+  {
+    "studentId": "stu-001",
+    "courseId": "EE3009",
+    "semesterId": "2026F",
+    "status": "registered",
+    "totalScheduledLectures": 34
+  },
+  {
+    "studentId": "stu-001",
+    "courseId": "MT1004",
+    "semesterId": "2026F",
+    "status": "registered",
+    "totalScheduledLectures": 34
+  }
+]

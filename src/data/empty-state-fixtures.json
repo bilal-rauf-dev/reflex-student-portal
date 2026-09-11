@@ -1,0 +1,28 @@
+{
+  "note": "Degenerate cases every screen must render correctly. Not part of the main seeded account.",
+  "firstYearStudent": {
+    "id": "stu-002",
+    "rollNumber": "00F-0002",
+    "name": "Hamza Noor",
+    "batch": "Fall 2026",
+    "creditsRequired": 130,
+    "gradeRecords": [],
+    "enrolments": [],
+    "challans": []
+  },
+  "courseWithNothingPublished": "MT1004",
+  "courseBelowThreshold": "EE3009",
+  "courseWithUnreachableTarget": "EE3009",
+  "overdueChallan": "ch-2026F-hostel",
+  "requestInEveryState": [
+    "rq-01",
+    "rq-02",
+    "rq-03",
+    "rq-04",
+    "rq-05"
+  ],
+  "noRegistrationWindowAnnounced": {
+    "semesterId": "2027S",
+    "registrationWindow": null
+  }
+}

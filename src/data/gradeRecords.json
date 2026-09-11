@@ -1,0 +1,233 @@
+[
+  {
+    "semesterId": "2024F",
+    "courseCode": "CL1000",
+    "creditHours": 1,
+    "grade": "A+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "CL1002",
+    "creditHours": 1,
+    "grade": "B",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "CS1002",
+    "creditHours": 3,
+    "grade": "B",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "MT1003",
+    "creditHours": 3,
+    "grade": "B",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "NS1001",
+    "creditHours": 3,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "SS1012",
+    "creditHours": 2,
+    "grade": "B",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "SL1012",
+    "creditHours": 1,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2024F",
+    "courseCode": "SS1013",
+    "creditHours": 2,
+    "grade": "B",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "CL1004",
+    "creditHours": 1,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "CS1004",
+    "creditHours": 3,
+    "grade": "B+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "EE1005",
+    "creditHours": 3,
+    "grade": "B-",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "EL1005",
+    "creditHours": 1,
+    "grade": "C",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "MT1008",
+    "creditHours": 3,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "SS1014",
+    "creditHours": 2,
+    "grade": "B",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "SL1014",
+    "creditHours": 1,
+    "grade": "A-",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "SS2043",
+    "creditHours": 2,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025S",
+    "courseCode": "SS1007",
+    "creditHours": 2,
+    "grade": "C+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "EE2003",
+    "creditHours": 3,
+    "grade": "A-",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "EL2003",
+    "creditHours": 1,
+    "grade": "A+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "CS2001",
+    "creditHours": 3,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "CL2001",
+    "creditHours": 1,
+    "grade": "B+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "CS1005",
+    "creditHours": 3,
+    "grade": "A+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "CS3005",
+    "creditHours": 3,
+    "grade": "A+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "SSX21",
+    "creditHours": 3,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2025F",
+    "courseCode": "MT1004",
+    "creditHours": 3,
+    "grade": "I",
+    "statusCode": "I"
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "AI2002",
+    "creditHours": 3,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "AL2002",
+    "creditHours": 1,
+    "grade": "A+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "CS2005",
+    "creditHours": 3,
+    "grade": "A",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "CL2005",
+    "creditHours": 1,
+    "grade": "B+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "CS2006",
+    "creditHours": 3,
+    "grade": "A+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "EL2006",
+    "creditHours": 1,
+    "grade": "B-",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "SS1015",
+    "creditHours": 2,
+    "grade": "B+",
+    "statusCode": null
+  },
+  {
+    "semesterId": "2026S",
+    "courseCode": "MT2005",
+    "creditHours": 3,
+    "grade": "B+",
+    "statusCode": null
+  }
+]
