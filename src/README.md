@@ -7,11 +7,23 @@ rather than in whatever shape the first person to open the editor happens to cho
 | :--- | :--- | :--- |
 | `components/` | Reusable presentational components, one folder each | Zain |
 | `modules/` | One folder per module: today, attendance, marks, progress, registration, finance, requests, notifications, settings | Zain |
-| `hooks/` | Shared hooks: `useAttendanceHeadroom`, `useOfflineData`, `usePreferences`, `useLocale` | Hassaan |
-| `lib/` | Pure calculations, formatters, validators. **No React in here.** | Hassaan + Bilal |
+| `hooks/` | Thin React wrappers over the selectors. No arithmetic. | Hassaan |
+| `lib/` | Pure calculations, selectors, formatters, validators. **No React in here.** | Hassaan + Bilal |
 | `locales/` | `en.json`, `ur.json` | Saad |
 | `styles/` | `tokens.css`, `global.css` | Saad |
 | `data/` | Seeded JSON fixtures | Hassaan |
+
+## State of play
+
+| Layer | Status |
+| :--- | :--- |
+| `lib/` | Written and tested. 103 tests, no dependencies, `npm test` |
+| `data/` | Seeded, including every awkward case the screens must handle |
+| `locales/` | English and Urdu in parity, 168 keys each |
+| `hooks/` | Written. Thin wrappers, no logic of their own |
+| `components/`, `modules/`, `styles/` | Phase 4 |
+
+`npm run preview` renders the product in either locale with no interface at all.
 
 ## The one rule that matters
 
