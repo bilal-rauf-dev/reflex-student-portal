@@ -1,0 +1,45 @@
+[
+  {
+    "id": "2024F",
+    "label": "Fall 2024",
+    "startDate": "2024-08-19",
+    "endDate": "2024-12-13",
+    "isCurrent": false,
+    "registrationWindow": null
+  },
+  {
+    "id": "2025S",
+    "label": "Spring 2025",
+    "startDate": "2025-01-20",
+    "endDate": "2025-05-16",
+    "isCurrent": false,
+    "registrationWindow": null
+  },
+  {
+    "id": "2025F",
+    "label": "Fall 2025",
+    "startDate": "2025-08-18",
+    "endDate": "2025-12-12",
+    "isCurrent": false,
+    "registrationWindow": null
+  },
+  {
+    "id": "2026S",
+    "label": "Spring 2026",
+    "startDate": "2026-01-19",
+    "endDate": "2026-05-15",
+    "isCurrent": false,
+    "registrationWindow": null
+  },
+  {
+    "id": "2026F",
+    "label": "Fall 2026",
+    "startDate": "2026-08-17",
+    "endDate": "2026-12-11",
+    "isCurrent": true,
+    "registrationWindow": {
+      "opens": "2026-08-14",
+      "closes": "2026-08-30"
+    }
+  }
+]

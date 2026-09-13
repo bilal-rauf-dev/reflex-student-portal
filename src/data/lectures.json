@@ -1,0 +1,680 @@
+[
+  {
+    "courseId": "CS2009",
+    "date": "2026-08-17",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-08-18",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-08-24",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-08-25",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-08-31",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-01",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-07",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-08",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-14",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-15",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-21",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-22",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-28",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-09-29",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-05",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-06",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-12",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-13",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-19",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-20",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS2009",
+    "date": "2026-10-26",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-08-17",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-08-19",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-08-24",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-08-26",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-08-31",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-02",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-07",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-09",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-14",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-16",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-21",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-23",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-28",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-09-30",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-05",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-07",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-12",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-14",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-19",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-21",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3001",
+    "date": "2026-10-26",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-08-20",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-08-27",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-09-03",
+    "durationHours": 3.0,
+    "present": "A"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-09-10",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-09-17",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-09-24",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-10-01",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-10-08",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-10-15",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CL3001",
+    "date": "2026-10-22",
+    "durationHours": 3.0,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-08-18",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-08-20",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-08-25",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-08-27",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-01",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-03",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-08",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-10",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-15",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-17",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-22",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-24",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-09-29",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-01",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-06",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-08",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-13",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-15",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-20",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "CS3014",
+    "date": "2026-10-22",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-08-19",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-08-21",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-08-26",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-08-28",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-02",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-04",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-09",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-11",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-16",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-18",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-23",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-25",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-09-30",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-02",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-07",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-09",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-14",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-16",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-21",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "EE3009",
+    "date": "2026-10-23",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-08-17",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-08-21",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-08-24",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-08-28",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-08-31",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-04",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-07",
+    "durationHours": 1.5,
+    "present": "A"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-11",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-14",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-18",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-21",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-25",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-09-28",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-02",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-05",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-09",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-12",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-16",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-19",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-23",
+    "durationHours": 1.5,
+    "present": "P"
+  },
+  {
+    "courseId": "MT1004",
+    "date": "2026-10-26",
+    "durationHours": 1.5,
+    "present": "P"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "nt-01",
+    "category": "attendance-threshold",
+    "payload": {
+      "courseCode": "EE3009",
+      "headroom": -1
+    },
+    "deliveredAt": "2026-10-24",
+    "readAt": null
+  },
+  {
+    "id": "nt-02",
+    "category": "marks-published",
+    "payload": {
+      "courseCode": "EE3009",
+      "assessment": "Sessional II"
+    },
+    "deliveredAt": "2026-10-23",
+    "readAt": "2026-10-23"
+  },
+  {
+    "id": "nt-03",
+    "category": "fee-due",
+    "payload": {
+      "challanId": "ch-2026F",
+      "daysRemaining": 9
+    },
+    "deliveredAt": "2026-10-26",
+    "readAt": null
+  },
+  {
+    "id": "nt-04",
+    "category": "request-decision",
+    "payload": {
+      "requestId": "rq-05",
+      "outcome": "approved"
+    },
+    "deliveredAt": "2026-02-24",
+    "readAt": "2026-02-24"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "code": "CS2009",
+    "title": "Design and Analysis of Algorithms",
+    "section": "BCS-5B",
+    "creditHours": 3,
+    "type": "Core",
+    "instructorRole": "Course instructor",
+    "prerequisites": [
+      "CS2001"
+    ],
+    "slots": [
+      {
+        "day": "Mon",
+        "start": "08:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Tue",
+        "start": "08:30",
+        "end": "10:00"
+      }
+    ]
+  },
+  {
+    "code": "CS3001",
+    "title": "Computer Networks",
+    "section": "BCS-5B",
+    "creditHours": 3,
+    "type": "Core",
+    "instructorRole": "Course instructor",
+    "prerequisites": [
+      "CS2001"
+    ],
+    "slots": [
+      {
+        "day": "Mon",
+        "start": "10:00",
+        "end": "11:30"
+      },
+      {
+        "day": "Wed",
+        "start": "10:00",
+        "end": "11:30"
+      }
+    ]
+  },
+  {
+    "code": "CL3001",
+    "title": "Computer Networks - Lab",
+    "section": "BCS-5B",
+    "creditHours": 1,
+    "type": "Core",
+    "instructorRole": "Course instructor",
+    "prerequisites": [],
+    "slots": [
+      {
+        "day": "Thu",
+        "start": "14:00",
+        "end": "17:00"
+      }
+    ]
+  },
+  {
+    "code": "CS3014",
+    "title": "Applied Human Computer Interaction",
+    "section": "BCS-5B",
+    "creditHours": 3,
+    "type": "Core",
+    "instructorRole": "Course instructor",
+    "prerequisites": [],
+    "slots": [
+      {
+        "day": "Tue",
+        "start": "11:30",
+        "end": "13:00"
+      },
+      {
+        "day": "Thu",
+        "start": "11:30",
+        "end": "13:00"
+      }
+    ]
+  },
+  {
+    "code": "EE3009",
+    "title": "Computer Architecture",
+    "section": "BCS-5B",
+    "creditHours": 3,
+    "type": "Core",
+    "instructorRole": "Course instructor",
+    "prerequisites": [
+      "EE2003"
+    ],
+    "slots": [
+      {
+        "day": "Wed",
+        "start": "08:30",
+        "end": "10:00"
+      },
+      {
+        "day": "Fri",
+        "start": "08:30",
+        "end": "10:00"
+      }
+    ]
+  },
+  {
+    "code": "MT1004",
+    "title": "Linear Algebra",
+    "section": "BCS-3E",
+    "creditHours": 3,
+    "type": "Core",
+    "instructorRole": "Course instructor",
+    "prerequisites": [],
+    "slots": [
+      {
+        "day": "Mon",
+        "start": "13:00",
+        "end": "14:30"
+      },
+      {
+        "day": "Fri",
+        "start": "13:00",
+        "end": "14:30"
+      }
+    ]
+  }
+]
