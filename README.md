@@ -13,7 +13,7 @@
 [![Team](https://img.shields.io/badge/Team-Z--BASH-12A5D9?style=for-the-badge)](CONTRIBUTING.md)
 [![License](https://img.shields.io/badge/License-MIT-17B98A?style=for-the-badge)](LICENSE)
 
-[![Phase](https://img.shields.io/badge/Phase-1%20of%205%20complete-1565E0?style=flat-square)](#-project-phases)
+[![Phase](https://img.shields.io/badge/Phase-2%20of%205%20complete-1565E0?style=flat-square)](#-project-phases)
 [![Platform](https://img.shields.io/badge/Platform-Responsive%20Web-12A5D9?style=flat-square)](#-tech-stack)
 [![Accessibility](https://img.shields.io/badge/Target-WCAG%202.1%20AA-17B98A?style=flat-square)](docs/ACCESSIBILITY.md)
 [![Data](https://img.shields.io/badge/Data-Seeded%20only-6B7A99?style=flat-square)](docs/DATA_AND_PRIVACY.md)
@@ -36,7 +36,7 @@ ReFlex inverts that relationship. **The derived answer leads. The raw record sta
 | Flex asks you to work it out | ReFlex tells you |
 | :--- | :--- |
 | A lecture-by-lecture attendance log and a percentage bar | *"You can miss 3 more classes in CS3001 before dropping below 80%"* |
-| A list of published marks | *"You need 84% in the final to reach an A"* |
+| A list of published marks | *"You need 33 of 50 in the final to reach a total of 70"* |
 | One challan row beside forty lines of bank instructions | *"Rs 194,500 due in 4 days"* |
 | A red banner reading "Registration not active yet" | *"Registration opens in 6 days. Build your draft schedule now."* |
 | Course status encoded in colour with no legend | A labelled chip, with the legend on the same screen |
@@ -54,17 +54,20 @@ ReFlex inverts that relationship. **The derived answer leads. The raw record sta
 
 <br />
 
-> **Adding more screens:** drop image files into `docs/assets/screens/` and link them here.
-> Suggested naming keeps them ordered: `02-dashboard.png`, `03-attendance.png`, `04-marks.png`, and so on.
-> Table layout below is ready to fill in.
+### Phase 3 lo-fi wireframes
+
+Greyscale wireframes, mobile-first at 360 × 800. Full set, flows, annotations and states in
+**[docs/wireframes](docs/wireframes/README.md)**. High-fidelity screens replace these in Phase 4.
+
+The [Phase 3 wireframe guide](docs/wireframes/README.md) describes Launchpad Home and its touch-first rules for target size, spacing and pinned actions.
 
 <div align="center">
 
-| Today dashboard | Attendance intelligence |
+| Today dashboard | Attendance detail |
 | :---: | :---: |
-| <!-- <img src="docs/assets/screens/02-dashboard.png" width="400" /> --> *coming in Phase 4* | <!-- <img src="docs/assets/screens/03-attendance.png" width="400" /> --> *coming in Phase 4* |
-| **Grade projection** | **Finance timeline** |
-| <!-- <img src="docs/assets/screens/04-marks.png" width="400" /> --> *coming in Phase 4* | <!-- <img src="docs/assets/screens/05-finance.png" width="400" /> --> *coming in Phase 4* |
+| <img src="docs/assets/wireframes/s-04-home.svg" alt="Home wireframe with an at-risk attendance card and a Check attendance button" width="300" /> | <img src="docs/assets/wireframes/s-06-attendance-detail.svg" alt="Attendance detail wireframe reading You can miss 2 more classes before dropping below 80%" width="300" /> |
+| **Grade projection** | **Registration planner** |
+| <img src="docs/assets/wireframes/s-08-marks-projection.svg" alt="Marks wireframe with running total, target total picker and the score needed in the final" width="300" /> | <img src="docs/assets/wireframes/s-11-registration-planner.svg" alt="Registration planner wireframe with a countdown and a draft schedule showing one clash" width="300" /> |
 
 </div>
 
@@ -108,7 +111,7 @@ flowchart TD
 | :--- | :--- |
 | **M1 · Today** | Replaces the profile dump. Next class, attendance risk, unpaid challan with days remaining, open registration window, marks published since the last visit. Identifiers masked by default. |
 | **M2 · Attendance** | Leads with the headroom sentence. Per-course risk state, end-of-semester projection, lecture log one tap behind. |
-| **M3 · Marks** | Weighted running total, explicit empty states naming who publishes what, and the score still needed for a target grade. |
+| **M3 · Marks** | Weighted running total, explicit empty states naming who publishes what, and the score still needed for a target total ([ADR 0004](docs/decisions/0004-target-total-not-letter-grade.md)). |
 | **M4 · Progress** | CGPA trend across semesters, credits earned against credits required, every status code a labelled chip beside a permanent legend. |
 | **M5 · Registration** | Window dates and a countdown even while closed, prerequisite checking, clash detection, a draft schedule built before the window opens. |
 | **M6 · Finance** | One chronological challan timeline. Payment instructions on request, not on every visit. |
@@ -172,8 +175,9 @@ npm run lint       # lint and format check
 npm run a11y       # automated accessibility audit
 ```
 
-> Phase 3 is design-only, so the `src/` tree is a placeholder until Phase 4 begins.
-> Until then the living artefacts are the Figma file and the documents under `docs/`.
+> Phase 3 is design-only. `src/lib/` (with its tests), the seeded data and the locales exist; the
+> interface itself is built in Phase 4. Until then the living artefacts are the Figma file and the
+> documents under `docs/`.
 
 ---
 
@@ -205,8 +209,8 @@ gantt
     axisFormat %d %b
     section Delivery
     P1 Proposal and problem definition  :done,   p1, 2026-08-24, 14d
-    P2 User research and personas       :active, p2, 2026-09-07, 21d
-    P3 IA, wireframes, lo-fi prototype  :        p3, 2026-09-28, 28d
+    P2 User research and personas       :done,   p2, 2026-09-07, 21d
+    P3 Sketching and lo-fi wireframes   :active, p3, 2026-10-19, 28d
     P4 High-fidelity prototype          :        p4, 2026-10-26, 21d
     P5 Usability testing and iteration  :        p5, 2026-11-16, 28d
 ```
@@ -216,8 +220,8 @@ gantt
 | Phase | Weeks | Deliverable | Status |
 | :---: | :---: | :--- | :---: |
 | **1** | 2 to 3 | Proposal and problem definition | ![](https://img.shields.io/badge/complete-17B98A?style=flat-square) |
-| **2** | 3 to 5 | Research findings and personas | ![](https://img.shields.io/badge/in%20progress-1565E0?style=flat-square) |
-| **3** | 6 to 9 | Information architecture and lo-fi prototype | ![](https://img.shields.io/badge/planned-6B7A99?style=flat-square) |
+| **2** | 3 to 5 | Research findings, personas and information architecture | ![](https://img.shields.io/badge/complete-17B98A?style=flat-square) |
+| **3** | 10 to 13 | Sketching and lo-fi wireframes (due 15 Nov) | ![](https://img.shields.io/badge/in%20progress-1565E0?style=flat-square) |
 | **4** | 10 to 12 | High-fidelity prototype, frozen for testing | ![](https://img.shields.io/badge/planned-6B7A99?style=flat-square) |
 | **5** | 13 to 16 | Usability test report and final submission | ![](https://img.shields.io/badge/planned-6B7A99?style=flat-square) |
 
@@ -229,7 +233,7 @@ gantt
 
 <div align="center">
 
-| 9 | 22 | 38 | 11 | 8 |
+| 9 | 21 | 38 | 11 | 8 |
 | :---: | :---: | :---: | :---: | :---: |
 | modules | screens | functional requirements | non-functional requirements | use cases |
 
@@ -260,12 +264,17 @@ Branching, review and ownership rules are in **[CONTRIBUTING.md](CONTRIBUTING.md
 
 | Document | What it covers |
 | :--- | :--- |
+| [**Working Agreement**](docs/WORKING_AGREEMENT.md) | **Start here.** The calendar, who owns what, the rules, and what is outstanding now |
 | [Design Principles](docs/DESIGN_PRINCIPLES.md) | The five rules, the HCI principles behind them, and the review checklist |
 | [Architecture](docs/ARCHITECTURE.md) | Folder structure, data model, state, offline strategy |
 | [Coding Standards](docs/CODING_STANDARDS.md) | Naming, components, commits, branches, pull requests |
 | [Accessibility](docs/ACCESSIBILITY.md) | WCAG 2.1 AA targets and the per-screen audit checklist |
 | [Data and Privacy](docs/DATA_AND_PRIVACY.md) | Seeded-data policy, redaction rule, research consent |
 | [Project Charter](docs/PROJECT_CHARTER.md) | Problem, objectives, users, scope, success criteria |
+| [Personas](docs/research/personas/README.md) | Ayesha, Hamza and the anti-persona, from the Phase 2 research |
+| [Wireframes](docs/wireframes/README.md) | Phase 3 core tasks, flows, lo-fi screens, annotations and states |
+| [Screens](docs/screens/README.md) | The 21-screen index with stable numbers and build order |
+| [Decisions](docs/decisions/README.md) | Why the product is shaped the way it is, one record per decision |
 | [Contributing](CONTRIBUTING.md) | How the four of us work on this |
 | [Security](SECURITY.md) | Reporting a vulnerability, and what this prototype does not do |
 | [Code of Conduct](CODE_OF_CONDUCT.md) | Expected behaviour |

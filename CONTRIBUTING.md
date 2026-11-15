@@ -1,5 +1,8 @@
 # Contributing
 
+> The short version, with the calendar and the currently outstanding items, is in
+> [docs/WORKING_AGREEMENT.md](docs/WORKING_AGREEMENT.md). Read that first. This file is the detail.
+
 This repository belongs to **group Z-BASH** for CS3014 Applied Human Computer Interaction at
 FAST-NUCES. It is a course project with four members and a fixed sixteen-week schedule.
 

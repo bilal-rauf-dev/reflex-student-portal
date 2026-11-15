@@ -30,32 +30,35 @@ the full raw record, which Design Principle 1 already places behind the derived 
 
 ## Index
 
-| # | Screen | Section | Module | Spec |
-| :---: | :--- | :--- | :---: | :---: |
-| 1 | Splash / Launch | *(shell)* | M1 | ☐ |
-| 2 | Onboarding | *(shell)* | M1 | ☐ |
-| 3 | Login | *(shell)* | M1 | ☐ |
-| 4 | Today / Dashboard | **Home** | M1 | ☐ |
-| 5 | Attendance List | My Progress | M2 | ☐ |
-| 6 | Attendance Detail | My Progress | M2 | ☐ |
-| 7 | Marks List | My Progress | M3 | ☐ |
-| 8 | Marks Detail and Grade Projection | My Progress | M3 | ☐ |
-| 9 | Transcript | My Progress | M4 | ☐ |
-| 10 | Progress and Degree Audit | My Progress | M4 | ☐ |
-| 11 | Registration Planner | Registration | M5 | ☐ |
-| 12 | Course Search | Registration | M5 | ☐ |
-| 13 | Finance Timeline | Fees | M6 | ☐ |
-| 14 | Payment How-To | Fees | M6 | ☐ |
-| 15 | Requests Inbox | Requests & Alerts | M7 | ☐ |
-| 16 | Request Detail and Submit | Requests & Alerts | M7 | ☐ |
-| 17 | Notifications | Requests & Alerts | M8 | ☐ |
-| 18 | Notification Settings | Requests & Alerts | M8 | ☐ |
-| 19 | Profile and Privacy Controls | Settings & Help | M1 | ☐ |
-| 20 | Settings *(Display & Language)* | Settings & Help | M9 | ☐ |
-| 21 | Help and Glossary | Settings & Help | M9 | ☐ |
-| ~~22~~ | ~~Search~~ | **Retired** | ~~M9~~ | — |
+| # | Screen | Section | Module | Lo-fi (Phase 3) | Spec |
+| :---: | :--- | :--- | :---: | :---: | :---: |
+| 1 | Splash / Launch | *(shell)* | M1 | — | ☐ |
+| 2 | Onboarding | *(shell)* | M1 | — | ☐ |
+| 3 | Login | *(shell)* | M1 | [✓](../assets/wireframes/s-03-login.svg) | ☐ |
+| 4 | Today / Dashboard | **Home** | M1 | [✓](../assets/wireframes/s-04-home.svg) [desktop](../assets/wireframes/d-04-home-desktop.svg) | ☐ |
+| 5 | Attendance List | My Progress | M2 | [✓](../assets/wireframes/s-05-attendance-list.svg) | ☐ |
+| 6 | Attendance Detail | My Progress | M2 | [✓](../assets/wireframes/s-06-attendance-detail.svg) [desktop](../assets/wireframes/d-06-attendance-detail-desktop.svg) [states](../assets/wireframes/boards/states-s-06.svg) | ☐ |
+| 7 | Marks List | My Progress | M3 | [✓](../assets/wireframes/s-07-marks-list.svg) | ☐ |
+| 8 | Marks Detail and Grade Projection | My Progress | M3 | [✓](../assets/wireframes/s-08-marks-projection.svg) [states](../assets/wireframes/boards/states-s-08.svg) | ☐ |
+| 9 | Transcript | My Progress | M4 | — | ☐ |
+| 10 | Progress and Degree Audit | My Progress | M4 | — | ☐ |
+| 11 | Registration Planner | Registration | M5 | [✓](../assets/wireframes/s-11-registration-planner.svg) [states](../assets/wireframes/boards/states-s-11.svg) | ☐ |
+| 12 | Course Search | Registration | M5 | [✓](../assets/wireframes/s-12-course-search.svg) | ☐ |
+| 13 | Finance Timeline | Fees | M6 | [✓](../assets/wireframes/s-13-finance-timeline.svg) | ☐ |
+| 14 | Payment How-To | Fees | M6 | — | ☐ |
+| 15 | Requests Inbox | Requests & Alerts | M7 | — | ☐ |
+| 16 | Request Detail and Submit | Requests & Alerts | M7 | — | ☐ |
+| 17 | Notifications | Requests & Alerts | M8 | — | ☐ |
+| 18 | Notification Settings | Requests & Alerts | M8 | [✓](../assets/wireframes/s-18-notification-settings.svg) | ☐ |
+| 19 | Profile and Privacy Controls | Settings & Help | M1 | — | ☐ |
+| 20 | Settings *(Display & Language)* | Settings & Help | M9 | — | ☐ |
+| 21 | Help and Glossary | Settings & Help | M9 | [✓](../assets/wireframes/s-21-help-glossary.svg) | ☐ |
+| ~~22~~ | ~~Search~~ | **Retired** | ~~M9~~ | — | — |
 
-**21 active screens.** Screen 22 (Search) was retired in ADR 0003: it answered no validated need on
+**21 active screens.** Phase 3 wireframed the eleven that the three core tasks need; see
+[docs/wireframes](../wireframes/README.md). The rest are wireframed when Phase 4 builds them.
+
+ Screen 22 (Search) was retired in ADR 0003: it answered no validated need on
 its own, and the function is folded into Home and into Help & Glossary. The number is not reused.
 
 **Consequence for the proposal:** FR-38 (text scalable to 200%) is traced to "screens 1 to 22" in
