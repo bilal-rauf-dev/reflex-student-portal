@@ -1,6 +1,7 @@
 # NNNN · Title
 
-**Status:** Proposed / Accepted / Superseded by [NNNN](NNNN-x.md)
+**Status:** Proposed / Accepted / Superseded by NNNN
+<!-- When a decision is superseded, link NNNN to the replacing ADR. -->
 **Date:**
 **Decided by:** Whole group / names
 

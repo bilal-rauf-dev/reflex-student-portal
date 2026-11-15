@@ -1,6 +1,6 @@
 # Personas
 
-Two personas, one per user group in the charter. Built **from the Phase 2 data**, not from
+Two personas and one anti-persona. Built **from the Phase 2 data**, not from
 imagination. A persona nobody can trace back to real interview evidence is decoration.
 
 Each persona file states, at the bottom, which participants and survey responses it is drawn from.
@@ -34,5 +34,10 @@ Stated by them, not designed by us.
 
 ## Files
 
-- `group-a-first-years.md` *(to be written in Phase 2)*
-- `group-b-senior-years.md` *(to be written in Phase 2)*
+| File | Persona |
+| :--- | :--- |
+| [`ayesha.md`](ayesha.md) | Ayesha, the quick-check student (primary; most constrained) |
+| [`hamza.md`](hamza.md) | Hamza Shubman Gill, the multi-section navigator |
+| [`anti-persona.md`](anti-persona.md) | Dr. Tariq Mehmood, who ReFlex is not for |
+
+Written from the Phase 2 submission: 3 interviews (P1 to P3) and 28 survey responses.
